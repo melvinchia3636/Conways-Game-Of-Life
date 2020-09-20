@@ -19,7 +19,10 @@ The initial pattern constitutes the seed of the system. The first generation is 
 
 # Code
 This game is created by The Silly Coder. Feel free to make any changes.
-  # Used Module 
+  # Used Modules
   1. pygame
   2. copy
   3. math
+
+# Reference
+https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
