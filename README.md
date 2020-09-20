@@ -19,7 +19,14 @@ The initial pattern constitutes the seed of the system. The first generation is 
 
 # Code
 This game is created by The Silly Coder. Feel free to make any changes.
-  # Used Modules
+
+# How to Play
+After starting the app, 
+1. Left click to place a block
+2. Right click to delete a block
+3. Middle click to start the simulation
+
+# Used Modules
   1. pygame
   2. copy
   3. math
