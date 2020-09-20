@@ -20,6 +20,6 @@ The initial pattern constitutes the seed of the system. The first generation is 
 # Code
 This game is created by The Silly Coder. Feel free to make any changes.
   # library used
-    1. pygame
-    2. copy
-    3. math
+  1. pygame
+  2. copy
+  3. math
